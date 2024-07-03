@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('background2.jpg') no-repeat;
+  background: url('background1.jpg') no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -25,7 +25,7 @@ header{
   justify-content: space-between;
   align-items: center;
   z-index: 99;
-  background: black;
+  /* background: black; */
 }
 
 .logo {
